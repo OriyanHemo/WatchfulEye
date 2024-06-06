@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "xn2JGx9ib8mjZl1PrPw2XNOKLE6MCpBAb6c92lk1xE0S/eX/78L17Eo4RlNTB8y5uhvjftPmBE1L4XlVIxIwSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\א\\Downloads\\ChildProcess\\ChildProcess\\ChildProcess\\ChildProcess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\א\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\א\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\א\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\א\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512",
+    "C:\\Users\\א\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
