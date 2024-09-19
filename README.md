@@ -19,11 +19,8 @@ Watchful Eye is a real-time employee monitoring software designed to help manage
 1. [Introduction and Characterization](#introduction-and-characterization)
 2. [Theoretical Knowledge](#theoretical-knowledge)
 3. [Database](#database)
-4. [Project Implementation](#project-implementation)
-5. [User Guide](#user-guide)
-6. [Project Architecture and Diagrams](#project-architecture-and-diagrams)
-7. [Reflection](#reflection)
-8. [Bibliography](#bibliography)
+4. [User Guide](#user-guide)
+5. [Program's Flow](#program's-flow)
 
 ## Introduction and Characterization
 
@@ -82,7 +79,7 @@ Chosen for its document-based structure and efficient JSON storage format (BSON)
   - `ScreenCapture(agent_id, data(Image), timestamp)`
   - `Terminal(agent_id, data(Command, Output, Error), timestamp)`
     
-## Program Flow
+## Program's Flow
 
 **Manager Side:**
 
