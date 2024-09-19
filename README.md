@@ -16,13 +16,13 @@ Watchful Eye is a real-time employee monitoring software designed to help manage
 
 ## Table of Contents
 
-1. [Introduction and Characterization](#introduction-and-characterization)
+1. [Introduction](#introduction)
 2. [Theoretical Knowledge](#theoretical-knowledge)
 3. [Database](#database)
 4. [User Guide](#user-guide)
 5. [Program's Flow](#program's-flow)
 
-## Introduction and Characterization
+## Introduction
 
 **Project Name:** Watchful Eye
 
