@@ -81,25 +81,8 @@ Chosen for its document-based structure and efficient JSON storage format (BSON)
   - `ProcessesInfo(agent_id, data(Processes(Id, Name, FilePath, Owner, Uptime, CPUUsage, MemoryUsage)), timestamp)`
   - `ScreenCapture(agent_id, data(Image), timestamp)`
   - `Terminal(agent_id, data(Command, Output, Error), timestamp)`
-
-## Project Implementation
-
-**MongoDB Class:**
-
-- **Initialization:** Initializes the MongoDB client and databases.
-- **Methods:** Includes methods to check user existence, insert new users, insert new agents, and insert feature data.
-
-**Agent/Manager Classes:**
-
-- **Agent Class:** Handles MD5 hashing, agent initialization, and communication with the server.
-- **Manager Class:** Manages agents, handles user authentication, and processes feature requests.
-
-**Login/Register:**
-
-- **Technologies Used:** Python, Flask, Jinja2.
-- **Endpoints:** `/login` and `/register` for user authentication and registration.
-
-## User Guide
+    
+## Program Flow
 
 **Manager Side:**
 
